@@ -1,0 +1,37 @@
+.i{
+    background-color: black;
+    font-size: 30px;
+    color: white;
+    display: flex;
+    padding: 20px;
+    align-items: center;
+    height: 40px
+    
+}
+body{
+    margin: 0%;
+}
+.btn{
+    background-color: black;
+    color:white;
+    width: 100px;
+    height: 38px;
+
+    
+}
+.ii{
+    margin-left: 38px;
+}
+.iii{
+    margin-left: 38px;
+}
+.iv{
+    margin-left: 38px;
+}
+.v{
+    margin-left: 38px;
+}
+.vi{
+    margin-left: 38px;
+}
+
